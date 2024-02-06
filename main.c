@@ -15,6 +15,11 @@ Initial Feature1()
 //feature1 code
 //
 }
+Initial SecurityPatch()
+{
+ //Sample Code
+}
+
 
 }
 

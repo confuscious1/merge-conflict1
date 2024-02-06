@@ -13,6 +13,10 @@ Intial feature2()
 {
 //feature2 code
 //
+
+Initial SecurityPatch()
+{
+ //Sample Code
 }
 
 
